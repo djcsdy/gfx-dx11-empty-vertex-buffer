@@ -1,0 +1,9 @@
+[package]
+name = "gfx-dx11-empty-vertex-buffer"
+version = "0.0.0"
+authors = ["Daniel Cassidy <mail@danielcassidy.me.uk>"]
+
+[dependencies]
+gfx = "0.17.1"
+gfx_window_dxgi = "0.16.0"
+winit = "0.17.2"
